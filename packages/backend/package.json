@@ -50,7 +50,7 @@
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
     "isolated-vm": "4.6.0",
-    "node-gyp": "^9.0.0",
+    "node-gyp": "^10.0.0",
     "pg": "^8.11.3",
     "winston": "^3.2.1"
   },
