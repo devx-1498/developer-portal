@@ -5,7 +5,11 @@ env:
   REPOSITORY_NAME: developer-experience/developer-portal
   
 on:
-  workflow_call:
+  push:
+    paths-ignore:
+        - '.github/**'
+        - 'README.md'
+    branches: [ "main" ]
     
 jobs:
   build:
