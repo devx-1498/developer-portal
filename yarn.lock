@@ -6437,6 +6437,13 @@
   resolved "https://registry.yarnpkg.com/@mui/core-downloads-tracker/-/core-downloads-tracker-5.15.18.tgz#0f9426409a82f78423bdf504b2a5a3788656d612"
   integrity sha512-/9pVk+Al8qxAjwFUADv4BRZgMpZM4m5E+2Q/20qhVPuIJWqKp4Ie4tGExac6zu93rgPTYVQGgu+1vjiT0E+cEw==
 
+"@mui/icons-material@^5.0.0":
+  version "5.15.20"
+  resolved "https://registry.yarnpkg.com/@mui/icons-material/-/icons-material-5.15.20.tgz#dbd45d635d82b034fb10dadb5c258c26e3311618"
+  integrity sha512-oGcKmCuHaYbAAoLN67WKSXtHmEgyWcJToT1uRtmPyxMj9N5uqwc/mRtEnst4Wj/eGr+zYH2FiZQ79v9k7kSk1Q==
+  dependencies:
+    "@babel/runtime" "^7.23.9"
+
 "@mui/material@^5.12.2":
   version "5.15.18"
   resolved "https://registry.yarnpkg.com/@mui/material/-/material-5.15.18.tgz#1184e88cebb5c58625ca799531c0611c1fd9a2a8"
@@ -11307,9 +11314,9 @@ apg-lite@^1.0.3:
     "@bcgov/bc-sans" "^2.0.0"
     "@internal/plugin-analytics-module-snowplow" "^0.1.0"
     "@material-ui/core" "^4.12.4"
-    "@material-ui/icons" "^4.11.3"
     "@material-ui/lab" "^4.0.0-alpha.61"
     "@material-ui/styles" "^4.11.5"
+    "@mui/icons-material" "^5.0.0"
     "@snowplow/browser-plugin-link-click-tracking" "^3.15.0"
     "@snowplow/browser-tracker" "^3.15.0"
     backstage-plugin-techdocs-addon-mermaid "^0.11.0"
