@@ -11312,7 +11312,7 @@ apg-lite@^1.0.3:
     "@material-ui/styles" "^4.11.5"
     "@snowplow/browser-plugin-link-click-tracking" "^3.15.0"
     "@snowplow/browser-tracker" "^3.15.0"
-    backstage-plugin-techdocs-addon-mermaid "^0.11.0"
+    backstage-plugin-techdocs-addon-mermaid "^0.12.0"
     history "^5.0.0"
     react "^18.0.2"
     react-dom "^18.0.2"
@@ -11826,10 +11826,10 @@ babel-runtime@^6.26.0:
     core-js "^2.4.0"
     regenerator-runtime "^0.11.0"
 
-backstage-plugin-techdocs-addon-mermaid@^0.11.0:
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/backstage-plugin-techdocs-addon-mermaid/-/backstage-plugin-techdocs-addon-mermaid-0.11.0.tgz#89f72e0196ad9fe5dab92354be28de4f2a42670d"
-  integrity sha512-pJ1dY5zOspU3/9PQuEXMXv+wlFlQ6rQMUGPUyfp2dkWSP4BIsDVMrf9GfV6pht3x36aJegPoG99jaCclJDZgIg==
+backstage-plugin-techdocs-addon-mermaid@^0.12.0:
+  version "0.12.1"
+  resolved "https://registry.yarnpkg.com/backstage-plugin-techdocs-addon-mermaid/-/backstage-plugin-techdocs-addon-mermaid-0.12.1.tgz#662aacf20d91f0c8335b7ec9aee35a7b1d3cee92"
+  integrity sha512-au7sSx4gSisC08vcJyOx2dIJ9Hq6M/lQl57OVnW+9AFKHGGfD/aq/5I25p4Z5BqFTqoSCRzqkgFHib66BA3cqA==
   dependencies:
     "@backstage/core-components" "^0.13.10"
     "@backstage/core-plugin-api" "^1.8.2"
@@ -17441,14 +17441,7 @@ isobject@^3.0.1:
   resolved "https://registry.yarnpkg.com/isobject/-/isobject-3.0.1.tgz#4e431e92b11a9731636aa1f9c8d1ccbcfdab78df"
   integrity sha512-WhB9zCku7EGTj/HQQRz5aUQEUeoQZH2bWcltRErOpymJ4boYE6wL9Tbr23krRPSZ+C5zqNSrSw+Cc7sZZ4b7vg==
 
-isolated-vm@4.6.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/isolated-vm/-/isolated-vm-4.6.0.tgz#41a487c1aeeca2a3930ab520029db3b06c6c45aa"
-  integrity sha512-MEnfC/54q5PED3VJ9UJYJPOlU6mYFHS3ivR9E8yeNNBEFRFUNBnY0xO4Rj3D/SOtFKPNmsQp9NWUYSKZqAoZiA==
-  dependencies:
-    prebuild-install "^7.1.1"
-
-isolated-vm@^4.5.0:
+isolated-vm@4.7.2, isolated-vm@^4.5.0:
   version "4.7.2"
   resolved "https://registry.yarnpkg.com/isolated-vm/-/isolated-vm-4.7.2.tgz#5670d5cce1d92004f9b825bec5b0b11fc7501b65"
   integrity sha512-JVEs5gzWObzZK5+OlBplCdYSpokMcdhLSs/xWYYxmYWVfOOFF4oZJsYh7E/FmfX8e7gMioXMpMMeEyX1afuKrg==
@@ -25300,10 +25293,10 @@ typescript@~5.1.0:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.1.6.tgz#02f8ac202b6dad2c0dd5e0913745b47a37998274"
   integrity sha512-zaWCozRZ6DLEWAWFrVDz1H6FVXzUSfTy5FUMWsQlU8Ym5JP9eO4xkTIROFCQvhQf61z6O/G6ugw3SgAnvvm+HA==
 
-typescript@~5.2.0:
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.2.2.tgz#5ebb5e5a5b75f085f22bc3f8460fba308310fa78"
-  integrity sha512-mI4WrpHsbCIcwT9cF4FZvr80QUeKvsUsUvKDoR+X/7XHQH98xYD8YHZg7ANtz2GtZt/CBq2QJ0thkGJMHfqc1w==
+typescript@~5.5.0:
+  version "5.5.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.5.2.tgz#c26f023cb0054e657ce04f72583ea2d85f8d0507"
+  integrity sha512-NcRtPEOsPFFWjobJEtfihkLCZCXZt/os3zf8nTxjVH3RvTSxjrCamJpbExGvYOF+tFHc3pA65qpdwPbzjohhew==
 
 uc.micro@^1.0.1, uc.micro@^1.0.5:
   version "1.0.6"
